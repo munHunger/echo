@@ -21,7 +21,7 @@
         <property name="resourcePackage" value="se.munhunger.echo"/>
         <property name="version" value="0.0.1"/>
         <property name="host" value=""/>
-        <property name="basePath" value="/api"/>
+        <property name="basePath" value="/echo/api"/>
         <property name="title" value="Echo"/>
         <property name="description" value="A microservice That saves a response to later echo it back"/>
         <property name="contact" value="marcusmunger@hotmail.com"/>
